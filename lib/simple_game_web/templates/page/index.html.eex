@@ -1,0 +1,7 @@
+<script>
+  window.playerId = '<%= @id %>';
+</script>
+<div class="map">
+  <div id="results">
+  </div>
+</div>
